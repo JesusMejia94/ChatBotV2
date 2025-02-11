@@ -1,7 +1,7 @@
 # Activar encapsulamiento: source venv/Scripts/activate
 # activAR PAQUETE Flask:  pip install Flask
-# generar carpeta requerimientos: pip freeze > requirements.txt
-# Ruta de mi proyecto https://github.com/JesusMejia94/ChatBotV2.git
+# generar carpeta requerimientos: 
+# Ruta de mi proyecto https://github.com/JesusMejia94/Chatpip freeze > requirements.txtBotV2.git
 
 from flask import Flask,render_template
 from flask_sqlalchemy import SQLAlchemy 
